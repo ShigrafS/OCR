@@ -51,4 +51,19 @@ The model was trained using transfer learning based on a pre-trained model from 
 git clone https://github.com/your-username/hindi-ocr-streamlit.git
 cd hindi-ocr-streamlit
 
+```
 
+### Streamlit Deployment
+
+You can deploy this app using Streamlit Sharing or any cloud provider like Heroku.
+
+### For Streamlit Cloud:
+
+1. Navigate to [Streamlit Cloud](https://share.streamlit.io/).
+2. Connect your GitHub repository.
+3. Deploy the app by selecting `app.py` as the entry point.
+
+### App URL
+
+```bash[
+https://your-streamlit-app-url.streamlitapp.com/](https://hindienglishocr.streamlit.app/)
